@@ -1,0 +1,15 @@
+html {
+	background-color: lavender;
+	font-size: 30px;
+	color: purple;
+}
+
+h1 {
+	font-size: 45px;
+	color: black;
+	text-align: center;
+}
+
+p {
+	margin: 0-auto;
+}
