@@ -1,0 +1,14 @@
+html {
+	color: darkgreen;
+	text-align: center;
+	background-color: pink;
+}
+header {
+	font-size: 50px;
+}
+h1 {
+	font-size: 35px;
+}
+footer {
+	font-size: 15px;
+}
